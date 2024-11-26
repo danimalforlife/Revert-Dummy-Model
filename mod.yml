@@ -1,0 +1,13 @@
+title: Revert Dummy Model
+originalAuthor: danimalforlife
+description: Reverts some of the Dummy Models. Will update as needed.
+
+assets:
+- name: obj/M_EX020_WI.mdlx
+  method: copy
+  source:
+   - name: obj/M_EX020_WI.mdlx
+- name: obj/M_EX020_WI_RAW.mdlx
+  method: copy
+  source:
+   - name: obj/M_EX020_WI_RAW.mdlx
