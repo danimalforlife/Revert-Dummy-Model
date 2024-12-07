@@ -3,6 +3,7 @@ originalAuthor: danimalforlife
 description: Reverts some of the Dummy Models. Will update as needed.
 
 assets:
+###Shadows###
 - name: obj/M_EX020_WI.mdlx
   method: copy
   source:
@@ -11,3 +12,55 @@ assets:
   method: copy
   source:
    - name: obj/M_EX020_WI_RAW.mdlx
+
+###Soldier###
+- name: obj/M_EX010_WI.mdlx
+  method: copy
+  source:
+   - name: obj/M_EX010_WI.mdlx
+
+
+###Large Body###
+- name: obj/M_EX050_WI.mdlx
+  method: copy
+  source:
+   - name: obj/M_EX050_WI.mdlx
+
+
+###Aeroplane###
+- name: obj/M_EX540_WI.mdlx
+  method: copy
+  source:
+   - name: obj/M_EX540_WI.mdlx
+
+
+###Minute Bomb###
+- name: obj/M_EX550_WI.mdlx
+  method: copy
+  source:
+   - name: obj/M_EX550_WI.mdlx
+
+
+###Hammer Frame###
+- name: obj/M_EX560_WI.mdlx
+  method: copy
+  source:
+   - name: obj/M_EX560_WI.mdlx
+
+
+###Hot Rod###
+- name: obj/M_EX640_WI.mdlx
+  method: copy
+  source:
+   - name: obj/M_EX640_WI.mdlx
+
+
+###Rapid Thruster###
+- name: obj/M_EX660_WI.mdlx
+  method: copy
+  source:
+   - name: obj/M_EX660_WI.mdlx
+- name: obj/M_EX660_WI_RAW.mdlx
+  method: copy
+  source:
+   - name: obj/M_EX660_WI_RAW.mdlx
